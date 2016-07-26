@@ -1,0 +1,56 @@
+body {
+			background-color: #f6f4f6;
+		}
+		h1 {text-transform: uppercase;
+			font-family: Arial;
+			font-weight: bold;
+		}
+		.picture {text-align: center;
+		}
+		p {
+			margin-top: 19px;
+			margin-bottom: 19px;
+		}
+		.information
+		{width: 500px;
+			text-align: left;
+			margin: auto;
+		}
+
+		.photocaption{
+			color: #5e5e5f;
+			font-family: Arial;
+			font-size: 13px;
+		}
+		
+		.reasons {
+			font-family: "MyriadProRegular", Arial, sans-serif;
+			font-size: 13px;
+
+		}
+		
+		.phone {
+			margin-left: 37px;
+			font-family: "MyriadProRegular", Arial, sans-serif;
+			font-size: 13px;
+		}
+
+		h4{
+			font-family: "Myriad Pro Bold", Arial, sans-serif;
+			font-weight: bold;
+		}
+
+		a{
+			margin-left: 37px;
+			font-family: "MyriadProRegular", Arial, sans-serif;
+			font-size: 14px;
+			font-style: italic;
+			font-weight: bold;
+			color: #7593de;
+		}
+		.feedback
+		{    
+			margin-left: 37px;
+			font-family: "MyriadProRegular", Arial, sans-serif;
+			font-size: 13px;
+		}
